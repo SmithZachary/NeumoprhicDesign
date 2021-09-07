@@ -11,6 +11,9 @@
 		B6E4B2CB26E7E6390096459D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6E4B2CA26E7E6390096459D /* ContentView.swift */; };
 		B6E4B2CD26E7E63C0096459D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6E4B2CC26E7E63C0096459D /* Assets.xcassets */; };
 		B6E4B2D026E7E63C0096459D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6E4B2CF26E7E63C0096459D /* Preview Assets.xcassets */; };
+		B6E4B2D826E7E6740096459D /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6E4B2D726E7E6740096459D /* HomeView.swift */; };
+		B6E4B2DA26E7E6CD0096459D /* NeumorphView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6E4B2D926E7E6CD0096459D /* NeumorphView.swift */; };
+		B6E4B2DE26E7E9BF0096459D /*  NeoVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6E4B2DD26E7E9BF0096459D /*  NeoVIew.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +23,9 @@
 		B6E4B2CC26E7E63C0096459D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B6E4B2CF26E7E63C0096459D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B6E4B2D126E7E63C0096459D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B6E4B2D726E7E6740096459D /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		B6E4B2D926E7E6CD0096459D /* NeumorphView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeumorphView.swift; sourceTree = "<group>"; };
+		B6E4B2DD26E7E9BF0096459D /*  NeoVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " NeoVIew.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +60,9 @@
 			children = (
 				B6E4B2C826E7E6390096459D /* NeumorphicDesignApp.swift */,
 				B6E4B2CA26E7E6390096459D /* ContentView.swift */,
+				B6E4B2D926E7E6CD0096459D /* NeumorphView.swift */,
+				B6E4B2D726E7E6740096459D /* HomeView.swift */,
+				B6E4B2DD26E7E9BF0096459D /*  NeoVIew.swift */,
 				B6E4B2CC26E7E63C0096459D /* Assets.xcassets */,
 				B6E4B2D126E7E63C0096459D /* Info.plist */,
 				B6E4B2CE26E7E63C0096459D /* Preview Content */,
@@ -138,7 +147,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6E4B2D826E7E6740096459D /* HomeView.swift in Sources */,
+				B6E4B2DE26E7E9BF0096459D /*  NeoVIew.swift in Sources */,
 				B6E4B2CB26E7E6390096459D /* ContentView.swift in Sources */,
+				B6E4B2DA26E7E6CD0096459D /* NeumorphView.swift in Sources */,
 				B6E4B2C926E7E6390096459D /* NeumorphicDesignApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
